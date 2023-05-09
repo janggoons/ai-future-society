@@ -7,3 +7,7 @@
 ## 특강 자료
 * 강의자료 : [PDF] | [HTML]
 * 실습자료
+  - [Teachable Machine](https://teachablemachine.withgoogle.com/)
+  - [과일분류모델](https://tm-image-demo.glitch.me/)
+  - [chatGPT](https://chat.openai.com/)
+  
