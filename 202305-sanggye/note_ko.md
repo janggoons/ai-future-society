@@ -66,23 +66,13 @@ _paginate: false
   - 추론 : 학습한 모델로 새로운 지식을 만드는 방법
 
 ---
-## 인공지능 기술의 활용
-* 인공지능 기술을 활용한다는 것은, 마치 다른 사람과 **함께 일을 한다는 것**이다.
-* 누군가와 함께 일 하기 위해 갖춰야 할 능력은,
-  - 기본적인 문제해결 능력 + 
-  - 의사소통 능력(상대방의 언어로 설명하고 이해할 수 있는 능력) +
-  - 배려, 기다림, 격려, ...
+![bg contain](https://www.azquotes.com/picture-quotes/quote-a-computer-would-deserve-to-be-called-intelligent-if-it-could-deceive-a-human-into-believing-alan-turing-29-79-78.jpg)
 
 ---
-![bg right:30% contain](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png)
-![bg right:30% contain](https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F299c12e4-993b-4502-a08b-eb6ce44ba9f4%2FUntitled.png&blockId=2a1ba62b-983a-4f50-b017-0c94f9aed29f)
+![bg left:60% 80%](https://ia800804.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE/MIND_jp2.zip&file=MIND_jp2/MIND_0000.jp2&id=MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE&scale=2&rotate=0)
 
-## 인공지능 기술 활용 사례
-* 대규모 언어 모델
-  - [ChatGPT](https://openai.com/blog/chatgpt)
-    - 대화형 인공지능 모델, 사용자의 질문에 그럴듯한 답변을 생성
-  - [AskUp(아숙업)](https://askup.oopy.io/)
-    - 카카오톡에서 사용하는 챗봇, ChatGPT 활용 서비스
+A. M. TURING, COMPUTING MACHINERY AND INTELLIGENCE, Mind, Volume 59, Issue 236, October 1950, Pages 433–460, https://doi.org/10.1093/mind/LIX.236.433
+
 
 ---
 <!--
@@ -189,6 +179,9 @@ _paginate: false
 * 준비하기
   - 샘플 웹 서비스 이동 > https://tm-image-demo.glitch.me/
   - Remix this site on Glitch 클릭하기
+* Glitch 서비스는,
+  - 웹 브라우저에서 웹 페이지를 만들고 수정하고 배포할 수 있는 서비스
+  - 계정 없이도 사용할 수 있으나, 계정이 있으면 배포한 프로젝트를 유지할 수 있으며, 무료 또는 유로 버전이 있음
 
 ---
 ## 과일 분류 웹 서비스 만들기
@@ -200,13 +193,22 @@ _paginate: false
     - PREVIEW
 
 ---
+![bg right:30% 80%](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png)
 ## 과일 분류 웹 서비스 개선하기
-* html, css, javascript 기술을 이용하여 코드 개선하기
-* chatGPT 를 이용하여 코드 개선하기
+* html, css, javascript 을 이용하여 코드 개선
+* 인공지능 기술(챗봇)을 이용하여 코드 개선하기
   - chatGPT https://chat.openai.com/
   - chatGPT 는 미리 학습된 모델을 이용하는 대화형 인공지능 서비스
   - chatGPT 를 프로그래머라고 생각하고, 코드 개선을 요청하자.
-  - 목표는, 우리가 만든 과일 분류 모델에 맞도록 설명을 수정하는 것이다.
+
+
+---
+## 인공지능 기술의 활용
+* 인공지능 기술을 활용한다는 것은, 마치 다른 사람과 **함께 일을 한다는 것**이다.
+* 누군가와 함께 일 하기 위해 갖춰야 할 능력은,
+  - 기본적인 문제해결 능력 + 
+  - 의사소통 능력(상대방의 언어로 설명하고 이해할 수 있는 능력) +
+  - 배려, 기다림, 격려, ...
 
 ---
 <style scoped>
@@ -255,20 +257,7 @@ li {
   - 정답을 알려주고 학습하는 방법 입니다.
 * 다른 학습 방법은,
   - 비지도 학습 Unsupervised Learning, 정답을 알려주지 않고 학습 하는 방법
-  - 강화 학습 Reinforcement Learning, 규칙만 알려주고 이기는 방향으로 학습하는 방법은 
-
----
-## 지도학습 Supervised Learning
-* 사람의 학습과 컴퓨터 학습의 차이는 무엇일까?
-  - 사람은 적은 수의 경험과 사례로도 학습이 가능
-  - 사람은 잘 알지 못하는 분야에 대해서 엉뚱하게 상상하거나, 가설을 세우고 검증하는 과정에서 다양한 실패를 통해 새로운 정보 발견이 가능
-
----
-## 지도학습 Supervised Learning
-* 사람의 학습과 컴퓨터 학습의 차이는 무엇일까?
-  - 컴퓨터는 사람보다 훨씬 많은 학습 데이터가 필요
-  - 컴퓨터는 제공되는 데이터가 아주 많다면, 보다 정확하게 분류하는 모델을 만들 수 있음
-  - 사람보다 빠르고 때로는 더 정확하게 분류 가능
+  - 강화 학습 Reinforcement Learning, 규칙만 알려주고 이기는 방향으로 학습하는 방법
 
 ---
 <!--
@@ -291,12 +280,22 @@ _paginate: false
   - 데이터 수집 > 모델 학습 > 결과 검증
 * 인공지능 웹 서비스 제작하기
   - 분류 모델 업로드 > 분류 모델 연결
+* 또 다른 도구 활용하기
+  - [Dancing with AI](https://dancingwithai.media.mit.edu/)
+
+---
+## Dancing with AI
+* 블록 기반 프로그래밍 환경 (마치 스크래치, 엔트리 처럼)
+* 티처블 머신으로 학습시킨 분류 모델을 이용하여,
+* 다양한 프로젝트를 만들 수 있다.
+  - 작품, 놀이, 게임 등의 인터페이스
 
 ---
 ## 프로젝트 개선하기
 * 웹 페이지 수정하기
   - 직접 수정하거나,
   - 인공지능과 함께 수정하거나
+* 또는 프로젝트 수정하기(Dancing with AI)
 
 ---
 ## 프로젝트 공유 준비하기
