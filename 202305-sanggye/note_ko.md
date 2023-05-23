@@ -133,7 +133,7 @@ _paginate: false
   - 이미지 파일을 수집한다.
 * 이미지 파일 수집
   - 미리 수집된 저장소 활용
-  - 직접 수집(스크래핑) -> [파이썬으로 구글 이미지 스크래핑 하기]()
+  - 직접 수집(스크래핑) -> [파이썬으로 구글 이미지 스크래핑 하기](https://github.com/janggoons/ai-future-society/blob/main/202305-sanggye/src/scraping.py)
 
 ---
 ![bg contain](img/01.png)

@@ -8,6 +8,7 @@
 * 강의자료 : [PDF](https://janggoons.github.io/ai-future-society/202305-sanggye/note_ko.pdf) | [HTML](https://janggoons.github.io/ai-future-society/202305-sanggye/note_ko.html)
 * 실습자료
   - [파이썬으로 이미지 파일 스크래핑 예제 코드](https://github.com/janggoons/ai-future-society/blob/main/202305-sanggye/src/scraping.py)
+    - [ChromeDriver](https://sites.google.com/chromium.org/driver/downloads?authuser=0)
   - [Teachable Machine](https://teachablemachine.withgoogle.com/)
   - [과일분류모델](https://tm-image-demo.glitch.me/)
   - [chatGPT](https://chat.openai.com/)
