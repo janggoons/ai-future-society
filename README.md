@@ -1,5 +1,5 @@
 # 특강 기록
-* 나만의 인공지능 웹 서비스 제작, 2023년 5월 16일(화), 23일(화), 30일(화), 상계고등학교 [링크](https://github.com/janggoons/ai-future-society/tree/main/202305/notice.md)
+* 나만의 인공지능 웹 서비스 제작, 2023년 5월 16일(화), 23일(화), 30일(화), 상계고등학교 [링크](https://github.com/janggoons/ai-future-society/tree/main/202305-sanggye/notice.md)
 
 * 컴퓨팅 사고 인공지능 종합 프로젝트, 2023년 5월, 고려사이버대학교 컴퓨팅사고력 강좌 중 특강 [링크](https://github.com/janggoons/ai-future-society/tree/main/202305-cuk/note_ko.md)
 
