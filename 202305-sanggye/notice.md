@@ -5,8 +5,9 @@
 * 장소 : 상계고등학교 컴퓨터1실
 
 ## 특강 자료
-* 강의자료 : [PDF] | [HTML]
+* 강의자료 : [PDF]() | [HTML]()
 * 실습자료
+  - [파이썬으로 이미지 파일 스크래핑]()
   - [Teachable Machine](https://teachablemachine.withgoogle.com/)
   - [과일분류모델](https://tm-image-demo.glitch.me/)
   - [chatGPT](https://chat.openai.com/)

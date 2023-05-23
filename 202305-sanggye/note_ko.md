@@ -127,6 +127,15 @@ _paginate: false
   - 과일의 이름을 맞추도록 한다.
 
 ---
+## 데이터 수집
+* 이미지 데이터를 수집하는 방법은,
+  - 웹캠을 이용하여 사물을 직접 촬영하거나,
+  - 이미지 파일을 수집한다.
+* 이미지 파일 수집
+  - 미리 수집된 저장소 활용
+  - 직접 수집(스크래핑) -> [파이썬으로 구글 이미지 스크래핑 하기]()
+
+---
 ![bg contain](img/01.png)
 ## [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
