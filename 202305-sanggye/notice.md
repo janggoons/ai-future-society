@@ -22,6 +22,8 @@
   - 강사가 안내한 번호에 해당하는 문서를 작성합니다. (문서 이름에 이름을 자신의 이름으로 변경해 주세요. 01-장윤재)
 * 데모 영상 업로드 [링크](https://www.dropbox.com/request/Y3UfkrJGD6e9bMt9Ivkt)
   - 파일 추가시 파일명 또는 메시지로 자신의 이름을 남겨주세요.
+* 프로젝트 공유회
+  - 팀 별로 공유회 > 우수 프로젝트 선정 > 전체 공유회
 
 ## 회고
 * 회고 설문 [링크](https://docs.google.com/forms/d/e/1FAIpQLSdlXU-oO7mM5oXWqmdwzWTTZpvB4H_Pd92GUCQjLvSS9_Itdg/viewform?usp=sf_link)
