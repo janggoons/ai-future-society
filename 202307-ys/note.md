@@ -20,7 +20,7 @@ SW융합교육원, 삼육대학교
 <!--
 _class: lead
 -->
-## 00. Introduction
+# 00. Introduction
 
 ---
 ## 강사 소개
@@ -137,7 +137,7 @@ li {
 _class: lead
 -->
 
-# 규칙성 경험하기
+### 규칙성 경험하기
 
 ---
 <style scoped>
@@ -244,7 +244,7 @@ _footer: ""
 _class: lead
 -->
 
-# 규칙 만들기
+### 규칙 만들기
 
 ---
 ## 조건부 디자인 Conditional Design
@@ -352,7 +352,7 @@ https://www.richardlapham.com/itp/2017/11/14/sol-lewitt-generator
 
 
 ---
-# Code 에 대해 생각하기
+### Code 에 대해 생각하기
 <!--
 _class: lead
 -->
@@ -429,7 +429,7 @@ https://nybookeditors.com/2013/06/copyediting-marks/
 -->
 
 ---
-# 앞으로 만나게 될 코드 Code
+## 코드는... 
 
 * 컴퓨터에게 내 생각이나 의도를 전달하기 위한 소통의 도구
 * 우리가 사용하는 자연어와 비슷한 점과 다른 점이 있다. 
@@ -451,7 +451,7 @@ A. Whitehead, An Introduction to Mathematics
 
 
 ---
-# Computational 의 의미
+## Computational 의 의미
 
 수작업 <-> 알고리즘 / 자동화
 컴퓨터를 활용한 <-> 컴퓨테이션에 의한
@@ -490,36 +490,169 @@ you better learn to Code”
 John Maeda
 
 ---
-# Thanks! 🎉 
 <!--
 _class: lead
 -->
-
----
-<!--
-_class: lead
--->
-
 ## 03. Start Dancing with AI
 
 ---
+![bg](img/w11-01.png)
+## https://dancingwithai.media.mit.edu
+
+---
+![bg right contain](img/w11-02.png)
+## Dancing with AI
+* OPEN POSEBLOCKS! > Extension
+* Hand Sensing
+* Face Sensing
+* Body Sensing
+
+---
+![bg contain](img/w11-03.png)
+
+---
+![bg contain](img/w11-04.png)
+
+---
+![bg contain](img/w11-05.png)
+
+---
+![bg right:40% contain](img/w11-06.png)
+## 프로젝트 읽고 수정하기
+* 예제 중 프로젝트 1개 선택
+* 실행해보고, 코드를 읽어서 이해해 봅시다.
+* 한 가지 기능을 추가해 봅시다.
+
+---
+## Dancing with AI
+* 공식 스크래치 버전이 아닙니다.
+* 기존 스크래치 계정으로 로그인하거나 저장할 수 없어요.
+* 파일 > 컴퓨터에 저장하기로 저장해 주세요. 
+* 프로젝트가 복잡해지기 시작하면, 예상하지 못하게 멈출 수 있어요. 
+* 다음 기능을 추가하거나 테스트 하기 전에 파일로 저장해 놓으세요.
+
+---
+<!--
+_class: lead
+_paginate: false
+-->
+## 좀 더 움직여보기 
+
+---
+## 신체를 자유롭게 더 움직여보기
+* 예제 중 1개를 선택하여 동작 과정을 변경해 봅시다. 
+* 기존 예제에서 사용한 것 말고 다른 센싱을 사용해 보세요.
+  - 몸 / 손 / 얼굴
+  - 근사한 작품을 만들지 않아도 되요.
+  - 자신의 몸을 최대한 재미있게 사용해 봅시다.
+  - 새로운 예제로 만들어도 좋습니다.
+
+---
+## 공유하기
+* 네비게이터는 다른 팀의 시도를 살펴보고, 체험해 봅시다. 
+* 돌아와서, 우리의 시도를 더 다양하게 만들어 봅시다.
+
+---
+<!--
+_class: lead
+_paginate: false
+-->
+## 인터랙티브 바디 인터페이스
+
+---
+<!--
+_class: lead
+_paginate: false
+-->
+![bg contain](img/w11-07.png)
+### https://www.scroobly.com/
+
+---
+<!--
+_class: lead
+_paginate: false
+-->
+![bg contain](img/w11-08.png)
+### https://www.billtjonesai.com/
+
+---
+<!--
+_class: lead
+_paginate: false
+-->
+![bg contain](img/w11-09.png)
+### [The creative interface: connecting art and computer science | Cole Wiley | TEDxLSU](https://youtu.be/4yldLauJOZ4?t=619)
+
+---
 <!--
 _class: lead
 -->
-
 ## 04. Teachable Machine
 
 ---
-# Thanks! 🎉 
+## 데이터 수집
+* 이미지 데이터를 수집하는 방법은,
+  - 웹캠을 이용하여 사물을 직접 촬영하거나,
+  - 이미지 파일을 수집한다.
+* 이미지 파일 수집
+  - 미리 수집된 저장소 활용
+  - 직접 수집(스크래핑) -> [파이썬으로 구글 이미지 스크래핑 하기](https://github.com/janggoons/ai-future-society/blob/main/202305-sanggye/src/scraping.py)
+
+---
+![bg contain](img/01.png)
+## [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+---
+## [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* 컴퓨터 학습시키기
+  - 구분(class)할 이름 지정
+  - 구분(class)별로 이미지 촬영(또는 업로드)
+  - 모델 학습(Train Model) 클릭
+
+--- 
+## [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* 잘 학습했는지 확인하기
+  - Preview > 각각의 이미지를 보여주고 잘 분류하는지 확인
+  - 분류가 잘 안되면 이미지 데이터를 추가하고, 다시 학습시킨다.
+* 언제 잘 인식하고, 언제 잘 인식하지 못하는가?
+  - 웹캠으로 촬영 한다면 배경은?
+  - 사물은 정지한 상태로 촬영해야 할까?
+  - 몇 개의 데이터를 수집해야 할까?
+  
+---
+![bg contain](img/dai-tm-01.jpg)
+## Dancing with AI 에 TM 사용하기
+
+
+---
+![bg right contain](img/dai-tm-02.jpg)
+## Dancing with AI 에 TM 사용하기
+* TM 에서 모델 학습 > 모델 업로드
+* Dancing with AI 에서 업로드한 모델 URL 입력
+* 모델의 class 를 기준으로 동작 코드 작성하기
+
+---
 <!--
 _class: lead
+_paginate: false
 -->
+## 기계와 함께 춤을
+
+---
+## 몸으로 움직이는 작품 만들기
+* 간단한 작품을 만들어 봅시다. 
+* 그리고, 작품에 등장하는 캐릭터의 움직임을 몸으로 제어해 봅시다.
+* 기존 예제를 참고해도 좋습니다. 단, 자신의 몸을 최대한 재미있게 사용해 봅시다. 
+
+---
+## 공유하기
+* 네비게이터는 다른 팀의 시도를 살펴보고, 체험해 봅시다. 
+* 돌아와서, 우리의 시도를 더 다양하게 만들어 봅시다.
 
 ---
 <!--
 _class: lead
 -->
-
 ## 05. Start p5.js & Snake Game
 
 ---
@@ -528,12 +661,6 @@ _class: lead
 -->
 
 ## 06. Image Classification
-
----
-# Thanks! 🎉 
-<!--
-_class: lead
--->
 
 ---
 <!--
@@ -549,11 +676,6 @@ _class: lead
 
 ## 08. Pose Classification
 
----
-# Thanks! 🎉 
-<!--
-_class: lead
--->
 
 ---
 <!--
@@ -569,8 +691,3 @@ _class: lead
 
 ## 10. Share & Review
 
----
-# Thanks! 🎉 
-<!--
-_class: lead
--->
