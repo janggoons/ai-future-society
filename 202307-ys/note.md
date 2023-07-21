@@ -517,11 +517,20 @@ _class: lead
 ![bg contain](img/w11-05.png)
 
 ---
-![bg right:40% contain](img/w11-06.png)
-## 프로젝트 읽고 수정하기
-* 예제 중 프로젝트 1개 선택
-* 실행해보고, 코드를 읽어서 이해해 봅시다.
-* 한 가지 기능을 추가해 봅시다.
+<!--
+_class: lead
+-->
+![bg contain](img/body-sign.png)
+## [Body Sign](https://drive.google.com/file/d/14K7_aU1lk6xwMu3KoEjQpIuSL_LftgVk/view?resourcekey)
+
+
+---
+## 간단한 프로젝트 - body sign
+* 스타터 코드 다운로드 [링크](https://bit.ly/Doomchit-Codes)
+* Dancing with AI 에서 프로젝트 가져오기
+* 동작시켜보기
+* 나만의 body sign 만들기 > 화면 녹화하기
+* 변형하기 
 
 ---
 ## Dancing with AI
